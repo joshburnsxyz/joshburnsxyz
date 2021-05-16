@@ -6,3 +6,4 @@ I try to maintain at [joshburns.xyz](https://joshburns.xyz).
 
 #### 📫 How to reach me
 - Email: [joshyburnss@gmail.com](mailto:joshyburnss@gmail.com)
+- Twitter: [@joshburnsxyz](https://twitter.com/joshburnsxyz)
