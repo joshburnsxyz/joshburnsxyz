@@ -13,3 +13,9 @@ simple, minimalist wiki software written in Go.
 
 #### 🔖 Other Links
 - My Odysee Channel: [@joshburnsxyz:d](https://odysee.com/@joshburnsxyz:d)
+
+<p style="text-align: center;">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshburnsxyz&show_icons=true&theme=vue-dark)
+  
+</p>
