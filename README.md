@@ -7,8 +7,9 @@ I try to maintain at [joshburns.xyz](https://joshburns.xyz).
 #### 💼 Noteable Projects
 - [CVE](https://github.com/joshburnsxyz/cve): A CLI tool to search and filter CVEs using simple GNU/Linux tooling like `awk`, `grep`, and good ol' bash.
 - [`comd`](https://github.com/joshburnsxyz/comd): A command line tool for logging serial/com port traffic on linux.
-- [CID RecV](https://github.com/joshburnsxyz/cid-recv): Mock receiver for testing Ademco / Contact ID alarms over IP.
-
+- [CID RecV](https://github.com/joshburnsxyz/cid-recv): Mock receiver for testing Ademco / Contact ID alarm panels over IP.
+- [`epochd`](https://github.com/joshburnsxyz/epochd): Time keeping daemon written in rust, uses the unix epoch to keep a valid record of time.
+- 
 #### 📫 How to reach me
 - Email: [joshyburnss@gmail.com](mailto:joshyburnss@gmail.com)
 - Twitter: [@joshburnsxyz](https://twitter.com/joshburnsxyz)
