@@ -5,9 +5,9 @@ focus are things like data management and systems configuration. I have a blog
 I try to maintain at [joshburns.xyz](https://joshburns.xyz).
 
 #### 💼 Noteable Projects
-- [CID RecV](https://github.com/joshburnsxyz/cid-recv): Mock receiver for testing Ademco / Contact ID alarm panels over IP.
+- [Puck](https://github.com/joshburnsxyz/puck): Wrapper for `notify-send` to send notifications when commands are run.
 - [`epochd`](https://github.com/joshburnsxyz/epochd): Time keeping daemon written in rust, uses the unix epoch to keep a valid record of time.
-- [ademco](https://github.com/joshburnsxyz/ademco): Go library for dealing with and parsing Contact ID and Ademco messages 
+- [ademco](https://github.com/joshburnsxyz/ademco): Go library for dealing with and parsing Contact ID and Ademco messages.
 
 
 #### 📫 How to reach me
