@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 I'm Josh, an avid technology researcher from Melbourne, Australia. My area's of
-focus are things like data management and systems configuration. I have a blog
-I try to maintain at [joshburns.xyz](https://joshburns.xyz).
+focus are things like data management and systems configuration.
 
 #### 💼 Noteable Projects
 - [Puck](https://github.com/joshburnsxyz/puck): Wrapper for `notify-send` to send notifications when commands are run.
@@ -18,9 +17,6 @@ I try to maintain at [joshburns.xyz](https://joshburns.xyz).
 - My Odysee Channel: [@joshburnsxyz:d](https://odysee.com/@joshburnsxyz:d)
 
 ---
-
-#### Now Playing
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1284702547&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 #### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshburnsxyz&show_icons=true&theme=vue-dark)
