@@ -6,7 +6,6 @@ focus are things like data management and systems configuration.
 #### 💼 Noteable Projects
 - [Puck](https://github.com/joshburnsxyz/puck): Wrapper for `notify-send` to send notifications when commands are run.
 - [ademco](https://github.com/joshburnsxyz/ademco): Go library for dealing with and parsing Contact ID and Ademco messages.
-- [FileWire](https://github.com/filewire/filewire-web): Anonymous P2P filesharing platform powered by IPFS.
 
 #### 📫 How to reach me
 - Email: [joshyburnss@gmail.com](mailto:joshyburnss@gmail.com)
