@@ -8,7 +8,7 @@ My name is Josh. I am a Developer, Maker, Researcher, and Engineer from Melbourn
 - [Puck](https://github.com/joshburnsxyz/puck): Wrapper for `notify-send` to send notifications when commands are run.
 - [Git Ignores](https://github.com/joshburnsxyz/git-ignores): Git plugin that generates `.gitignore` files.
 - [PumpSpot](https://pumpspot.onrender.com): Website that shows a map of tappable water resources (lakes,ponds,hydrants,etc.)
-
+- [Sysinfop](https://github.com/joshburnsxyz/sysinfop): System info grabber (ala neofetch)
 ---
 
 #### 📫 How to reach me
