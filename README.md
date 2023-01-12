@@ -16,6 +16,3 @@ of lakes, rivers, hydrants, and other water sources.
 - My Odysee Channel: [@joshburnsxyz:d](https://odysee.com/@joshburnsxyz:d)
 
 ---
-
-#### Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshburnsxyz&show_icons=true&theme=vue-dark)
