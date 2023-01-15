@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-My name is Josh. I am a Developer, Maker, Researcher, and Engineer from Melbourne, Australia. I am the
-maintainer of [PumpSpot](https://pumpspot.onrender.com). A interactive map displaying the locations
-of lakes, rivers, hydrants, and other water sources.
+My name is Josh. I am a Developer, Maker, Researcher, and Engineer from Melbourne, Australia.
 
 ---
 
