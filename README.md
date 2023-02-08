@@ -12,5 +12,6 @@ My name is Josh. I am a Developer, Maker, Researcher, and Engineer from Melbourn
 
 #### 🔖 Other Links
 - My Odysee Channel: [@joshburnsxyz:d](https://odysee.com/@joshburnsxyz:d)
+- My Blog: [joshburns.xyz](https://joshburns.xyz)
 
 ---
